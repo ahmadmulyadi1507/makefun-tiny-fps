@@ -1,6 +1,10 @@
 # DUSTLINE — Yard 7
 
-A round-based tactical FPS for make.fun's threejs-fps-02, built on three.js 0.187.0
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/ahmadmulyadi1507/makefun-tiny-fps/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/ahmadmulyadi1507/makefun-tiny-fps/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
+A round-based tactical FPS for make.fun's [threejs-fps-02](https://make.fun/bounty/threejs-fps-02) bounty ($1,000 in USDC), built on three.js 0.187.0
 (vendored under `game/vendor/three/`). Single-player against bots, fully offline,
 no build step: serve `game/` with any static file server and open `index.html`.
 
