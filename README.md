@@ -33,6 +33,9 @@ attack Site A; the Jackals (4 bots) defend it. First to 5 rounds takes the yard.
 WASD move · Mouse aim · Click fire · Right mouse aim · R reload · 1–4 weapons ·
 G grenade · E plant/defuse · B buy menu · Ctrl crouch · Shift sprint · Space jump
 
+On touch screens: left stick to move · drag the right side to aim · FIRE / JUMP /
+RLD / PLANT / BUY buttons · aim sensitivity slider in the start and pause screens.
+
 ## Run it
 
 ```sh
